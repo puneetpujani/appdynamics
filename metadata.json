@@ -1,0 +1,13 @@
+{
+  "author": "cjtapp",
+  "dependencies": [ {"name":"puppetlabs/stdlib","version_requirement":">= 3.6.0"} ],
+  "license": "",
+  "name": "cjtapp-appdynamics",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "",
+  "summary": "",
+  "tags": [],
+  "version": "0.1.0"
+}
