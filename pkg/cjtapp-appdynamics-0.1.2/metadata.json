@@ -11,13 +11,15 @@
   "operatingsystem_support": [
     {
       "operatingsystem": "Ubuntu",
-      "operatingsystemrelease": [ "14.04" ]
+      "operatingsystemrelease": [
+        "14.04"
+      ]
     }
-  ],
-  "dependencies": [
-    { "name":"puppetlabs/stdlib","version_requirement":">= 3.6.0" }
   ],
   "tags": [
     "appdynamics"
+  ],
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">= 3.6.0"}
   ]
 }
